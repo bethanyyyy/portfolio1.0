@@ -52,12 +52,12 @@ span{
 	color: orange;
 }
 
-.detail p{
+.details p{
 	color: #555;
 	line-height: 22 px;
 }
 
-.detail a{
+.details a{
 	background: #212121;
 	padding: 10px 18px;
 	text-decoration: none;
